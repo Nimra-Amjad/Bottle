@@ -1,0 +1,118 @@
+*{
+	margin: 0px;
+}
+.box{
+	width: 700px;
+	height: 721px;
+	background-color: gray;
+	margin-left: 430px;
+}
+.tblue{
+	width: 200px;
+	height: 20px;
+	background-color: #00004d;
+	opacity: 0.5;
+	margin-left: 250px;
+}
+.box ,.tblue{
+	padding-top: 50px;
+}
+.ttopgray{
+	width: 200px;
+	height: 40px;
+	border-radius: 45%;
+	background-color: black;
+	opacity: 0.3;
+	margin-top: -90px;
+	margin-left: 250px;
+	box-shadow: 0.5px 0.5px 1.5px 1.5px white;
+}
+.ttg{
+	width: 100px;
+	height: 15px;
+	border-radius: 48%;
+	margin-left: 300px;
+	margin-top: -27px;
+	box-shadow: 0.5px 0.5px 1.5px 1.5px white;
+}
+.tbottomgray{
+	width: 200px;
+	height: 40px;
+	border-radius: 45%;
+	background-color: black;
+	opacity: 0.3;
+	margin-top: 40px;
+	margin-left: 250px;
+}
+.tblack{
+	width: 100px;
+	height: 60px;
+	background-color: black;
+	margin-top: -86px;
+	margin-left: 300px;
+	box-shadow: 1px 1px 2px 2px white;
+}
+.tgray{
+	width: 170px;
+	height: 80px;
+	background-color: #444444;
+	margin-left: 266px;
+	border-radius: 25px;
+}
+.t1black{
+	width: 165px;
+	height: 35px;
+	background-color: black;
+	border-radius: 50%;
+	margin-top: -85px;
+	margin-left: 267px;
+}
+.t2black{
+	width: 165px;
+	height: 35px;
+	background-color: black;
+	border-radius: 50%;
+	margin-top: 20px;
+	margin-left: 268px;
+}
+.mwhite{
+	width: 276px;
+	height: 54px;
+	margin-left: 208px;
+	background-color: transparent;
+	border: 2px solid white;
+	margin-top: -39px;
+	border-radius: 50%;
+}
+.bottle{
+	width: 278px;
+	height: 400px;
+	background-color: black;
+	margin-left: 210px;
+	margin-top: -30px;
+	border-radius: 10px;
+}
+.bottleblue{
+	width: 269px;
+	height: 400px;
+	background-color: #00004d;
+	margin-left: 4px;
+	margin-top: -18px;
+	border-radius: 13px;	
+	box-shadow: 0.5px 0.5px 1.5px 1.5px white;
+}
+.bottleblue h2{
+	text-align: center;
+	padding-top: 50px;
+	font-size: 50px;
+	color: gray;
+}
+.blueradius{
+	width: 266px;
+	height: 35px;
+	margin-top: -412px;
+	margin-left: 215px;
+	background-color: #00004d;
+	border-radius: 50%;	
+	box-shadow: 0.5px 0.5px 1.5px 1.5px white;
+}
